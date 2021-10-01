@@ -1,11 +1,5 @@
 from setuptools import setup, find_packages
 
-"""
-to set up
-This is to test the workflow
-"""
-
-
 setup(
     name="timechecker-testinggh",
     version="0.0.2",
